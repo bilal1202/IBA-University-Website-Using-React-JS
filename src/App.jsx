@@ -11,6 +11,7 @@ import Testimonials from './Components/Testimonials/Testimonials'
 
 
 
+
 const App = () => {
   return (
     <div>
@@ -23,7 +24,7 @@ const App = () => {
       <Title  subTitle='Gallery'  title='Campus Photos' />
       <Campus/>
       <Title  subTitle='Testimonials'  title='What Students Says' />
-    <Testimonials/>
+      <Testimonials/>
       </div>
     </div>
   )
